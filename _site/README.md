@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+- [Access to website](https://ssavajols.github.io/floria-consulting/)
+- [Access to website by domain](https://floria-consulting.com)
+
 You can use the [editor on GitHub](https://github.com/ssavajols/floria-consulting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

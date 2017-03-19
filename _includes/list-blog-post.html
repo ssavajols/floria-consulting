@@ -1,0 +1,43 @@
+<!-- This loops through the paginated posts -->
+<div class="group excerpts">
+{% for post in site.posts %}
+<article class="one_third">
+    <figure><img src="assets/layout/images/demo/320x220.png" alt="">
+        <figcaption>
+            <time datetime="{{ post.date }}"><strong>{{ post.date | date: "%d" }}</strong> <em>{{ post.date | date: "%b" }}</em></time>
+        </figcaption>
+    </figure>
+    <div class="hgroup">
+        <h4 class="heading">{{ post.title }}</h4>
+        <!--<ul class="nospace meta">-->
+            <!--<li>by <a href="#">Admin</a></li>-->
+            <!--<li>in <a href="#">Category Name</a></li>-->
+        <!--</ul>-->
+    </div>
+    <div class="txtwrap">
+        {{ post.excerpt }}
+    </div>
+    <footer><a class="btn" href="{{ post.url }}">Lire la suite &raquo;</a></footer>
+</article>
+{% endfor %}
+</div>
+
+<!-- ################################################################################################ -->
+<div class="clear"></div>
+
+{% if paginator.total_posts > 3 %}
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Précédent</a>
+    {% else %}
+    <span class="previous">Précédent</span>
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} / {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Suivant</a>
+    {% else %}
+    <span class="next ">Suivant</span>
+    {% endif %}
+</div>
+{% endif %}

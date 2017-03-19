@@ -1,14 +1,18 @@
-<div class="bgded overlay" style="background-image:url('assets/layout/images/demo/backgrounds/01.png');">
+<div class="bgded overlay" style="background-image:url('assets/layout/images/demo/backgrounds/office-581131_1920.jpg');">
     <!-- ################################################################################################ -->
     <div class="wrapper row1">
         <header id="header" class="hoc clear">
             <!-- ################################################################################################ -->
             <div id="logo" class="fl_left">
-                <h1><a href="index.html">Floria Consulting</a></h1>
+                <h1 {% if page.url == "/" %} class="active" {% endif %} ><a href="index.html">Floria Consulting</a></h1>
             </div>
             <nav id="mainav" class="fl_right">
                 <ul class="clear">
-                    <li {% if page.url == "/" %} class="active" {% endif %} ><a href="index.html">Home</a></li>
+                    <!--<li {% if page.url == "/" %} class="active" {% endif %} ><a href="/">Home</a></li>-->
+                    <li {% if page.url == "/formations/" %} class="active" {% endif %} ><a href="formations">Formations</a></li>
+                    <li {% if page.url == "/pack-emploi-et-formation/" %} class="active" {% endif %} ><a href="pack-emploi-et-formation">Notre pack</a></li>
+                    <li {% if page.url == "/recrutement/" %} class="active" {% endif %} ><a href="recrutement">Recrutement</a></li>
+                    <li {% if page.url == "/freelance/" %} class="active" {% endif %} ><a href="freelance">Freelance</a></li>
                     <!--<li><a class="drop" href="#">Pages</a>-->
                         <!--<ul>-->
                             <!--<li><a href="pages/gallery.html">Gallery</a></li>-->
@@ -46,8 +50,9 @@
         <div>
             <!-- ################################################################################################ -->
             <h2 class="heading">Floria consulting</h2>
-            <p>Morbi lacus sapien venenatis id cursus in bibendum eget ligula nunc vitae lacus sit amet sem consequat ullamcorper.</p>
-            <footer><a class="btn" href="#">Vulputate</a></footer>
+            <p>Spécialisé sur le développement front-end. Nous formons vos génies de demain. Nous vous proposons également
+            des spécialistes en prestation.</p>
+            <!--<footer><a class="btn" href="#">Vulputate</a></footer>-->
             <!-- ################################################################################################ -->
         </div>
     </section>

@@ -3,30 +3,26 @@ title: Formations
 layout: page
 permalink: formations/
 ---
-# FORMATIONS :
+# Les formations
 
-Ici les formations
+Floria consulting vous propose des formations courtes pour
+le développement des compétences de vos collaborateurs. 
 
-- ***bold italic text***
-- **bold text**
-- *italic text*
+Nous vous proposons : 
+- des formations sur mesure
+- des formations standard
+    - Javascript
+    - HTML/CSS
+    - Node.JS
+    - Angular.JS
+    - Backbone.JS
+    - React.JS
 
-![sample image](http://placekitten.com/500/200)
+Nos formations peuvent être dispensées dans des locaux sur 
+paris intramuros ou dans les locaux de votre société. Nos
+formateurs se déplacent sur Paris, Ile-de-france et la Picardie.
 
-```shell
-$ docker run -rm jekyll/jekyll jekyll serve
-```
-
-```javascript
-var sample = true;
-
-function OK()
-{
-    return {};
-}
-
-OK(true);
-```
+Pour mettre en place un parcours de formation, contactez nous : **contact@floria-consulting.com**
 
 #### Liens : 
 - [Document PDF]({{site.baseurl}}assets/docs/presentation.pdf)

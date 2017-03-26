@@ -11,17 +11,17 @@ permalink: recrutement/
 
 Nous recherchons des ingénieurs d'affaires avec une 
 expérience professionnelle significative dans le 
-domaine du digital et des sociétés de service numériques.
+domaine du digital et des sociétés de services numériques.
 
 Vous serez en charge de : 
-- Trouvez les premiers comptes
+- Trouver les premiers comptes
 - Négocier les contrats commerciaux
 - Placer et suivre les collaborateurs
-- Gérer les projets de formations groupés que nous proposons
+- Gérer les projets de formations groupées que nous proposons
 
 Salaire fixe + variable.
 
-Une perspective d'évolution incroyable du faite de la
+Une perspective d'évolution incroyable du fait de la
 jeunesse de notre structure. Le poste est un vrai challenge
 car tout est à construire.
 
@@ -32,7 +32,7 @@ Pour postuler : **contact@floria-consulting.com**
 ---
 ### Développeur
 
-Nous sommes en recherche de talents. Nous sommes à l'équipe
+Nous sommes en recherche de talents. Nous sommes à l'écoute
 de tout type de développeur :
 - Développeurs PHP
     - Symfony

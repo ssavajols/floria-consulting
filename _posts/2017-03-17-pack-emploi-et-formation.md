@@ -22,7 +22,7 @@ Cette formation vous apportera les compétences suivantes :
 
 Le pack comprend également un emploi CDI auprès de l'un
 de nos clients. Acteurs majeurs dans leurs domaines, après
-un an de prestation sous la bannière floria consulting,
+un an de prestations sous la bannière floria consulting,
 vous serez pris en charge par votre futur employeur.
 
 Pas de surprise avec le pack "emploi et formation". Vous

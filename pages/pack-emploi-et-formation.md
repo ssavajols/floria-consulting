@@ -6,6 +6,8 @@ permalink: pack-emploi-et-formation/
 
 # Pack emploi et formation
 
+![image](asset/docs/preview-emploi-et-formation.png)
+
 **La société Floria consulting est spécialisée dans la formation et le recrutement de développeurs Javascript**
 
 Les différents acteurs (Banques, Assurances, Medias …) du marché informatique ont un engouement croissant pour les compétences Javascript.
@@ -51,3 +53,8 @@ apportera le complément dont vous avez besoin pour vos équipes.
 vous propose les profils que vous choisissez en **prestations pour une 
 durée d’un an**. A la fin de cette prestation, vous aurez **la possibilité de 
 recruter gratuitement le prestataire**.
+
+Contactez nous :
+
+**Téléphone :** 06.29.07.54.26
+**Mail :** contact@floria-consulting.com

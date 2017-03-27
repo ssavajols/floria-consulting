@@ -3,9 +3,13 @@ layout: post
 title:  "Le pack emploi et formations"
 date:   2017-03-17 22:24:01 +0100
 categories: recrutement formation
+og_image: assets/docs/preview-emploi-et-formation.png
 ---
 
 Floria consulting vous propose le pack "emploi et formation".
+
+![image]({{page.og_image}})
+
 
 Ce pack contient une formation professionnelle de 2 mois 
 sur le développement JAVASCRIPT.

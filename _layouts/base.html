@@ -15,6 +15,9 @@ Licence URI: http://www.os-templates.com/template-terms
     {% if page.og_image %}
         <meta property="og:image" content="{{site.url}}{{page.og_image}}" />
     {% endif %}
+    {% if post.og_image %}
+        <meta property="og:image" content="{{site.url}}{{post.og_image}}" />
+    {% endif %}
     <link href="assets/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
     <link href="assets/layout/styles/highlight.css" rel="stylesheet" type="text/css" media="all">
 </head>

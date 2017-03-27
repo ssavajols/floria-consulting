@@ -2,7 +2,12 @@
 <div class="group excerpts">
 {% for post in site.posts %}
 <article class="one_third">
-    <figure><img src="assets/layout/images/demo/320x220.png" alt="">
+    <figure>
+        {% if post.og_image %}
+            <img src="{{post.og_image}}" alt="">
+        {% else %}
+            <img src="assets/layout/images/demo/320x220.png" alt="">
+        {% endif %}
         <figcaption>
             <time datetime="{{ post.date }}"><strong>{{ post.date | date: "%d" }}</strong> <em>{{ post.date | date: "%b" }}</em></time>
         </figcaption>

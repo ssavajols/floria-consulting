@@ -2,6 +2,7 @@
 title: pack-emploi-et-formation
 layout: page
 permalink: pack-emploi-et-formation/
+og_image: assets/docs/preview-emploi-et-formation.png
 ---
 
 # Pack emploi et formation

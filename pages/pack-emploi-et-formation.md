@@ -22,6 +22,8 @@ Floria consulting est consciente de cette forte demande et des difficultés que 
 Le pack Formation JS/ Emploi est la solution qui va permettre aux sociétés de trouver les resources et les compétences dont ils ont besoin.
 Nous allons lancer au mois de juin une session de formation. Celle ci permettra aux développeurs sélectionnés d’ajouter à leurs expériences de développeur des bases très solides en Javascript. Fort de cette formation spécialisée, ces développeurs Javascript juniors seront capables d’apporter leurs nouvelles compétences pour vos différents projets.
 
+![infographie-pack-emploi-formation.png](assets/docs/infographie-pack-emploi-formation.png)
+
 **Quelles compétences Javascript le développeur assimilera t’il lors de la formation ?**
 
 Voici une vision synthétique du contenu de la formation :
@@ -57,8 +59,6 @@ recruter gratuitement le prestataire**.
 
 Nous avons plus de 80 profils à vous présenter. Inscrivez vous à notre évènement
 pour les rencontrer.
-
-![infographie-pack-emploi-formation.png](assets/docs/infographie-pack-emploi-formation.png)
 
 ### Informations pratiques
 

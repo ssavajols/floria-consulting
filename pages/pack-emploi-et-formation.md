@@ -58,11 +58,13 @@ recruter gratuitement le prestataire**.
 Nous avons plus de 80 profils à vous présenter. Inscrivez vous à notre évènement
 pour les rencontrer.
 
+![infographie-pack-emploi-formation.png](assets/docs/infographie-pack-emploi-formation.png)
+
 ### Informations pratiques
 
-- Date des journées de rencontres : **20 et 21 Avril 2017**
-- Date estimée du début de la formation : **Juin 2017**
-- Date de disponibilitée estimé des resources : **Septembre 2017**
+- Date des journées de rencontres : **Avril/Mai 2017**
+- Date estimée du début de la formation : **Juin/Juillet 2017**
+- Date de disponibilitée estimé des resources : **Septembre/Octobre 2017**
 - Lieu des journées de rencontres : **Paris**
 - Lieu de la formation : **Paris**
 
@@ -70,3 +72,7 @@ pour les rencontrer.
 
 - **Par téléphone :** 06.29.07.54.26
 - **Par e-mail :** contact@floria-consulting.com
+
+### Liens
+
+- [Dossier de présentation](assets/docs/dossier-pack-emploi-et-formation.pdf)

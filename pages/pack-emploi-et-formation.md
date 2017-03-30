@@ -75,4 +75,4 @@ pour les rencontrer.
 
 ### Liens
 
-- [Dossier de présentation](assets/docs/dossier-pack-emploi-et-formation.pdf)
+- [Dossier de présentation](assets/docs/presentation-pack-emploi-formation.pdf)

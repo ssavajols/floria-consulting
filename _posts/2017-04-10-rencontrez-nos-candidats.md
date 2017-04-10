@@ -11,8 +11,8 @@ Dans le cadre du pack "Emploi et Formation" de Floria-Consulting, nous vous invi
 ![image here](assets/docs/banner-rencontrez-les-candidats.png)
 
 Lors de cet événement, vous rencontrerez nos candidats, sélectionnés avec soin, pouvant prétendre au cursus de formation JAVASCRIPT que nous leurs 
-dispenserons durant 2 mois. Seule les personnes choisis par les recruteurs suivront le parcour de formation. Vos futurs collaborateurs,
-que nous formeront, vous seront entièrement dédiés. Il n'y a pas de surprise d'indisponibilitée à la sortie de celle ci.
+dispenserons durant 2 mois. Seules les personnes choisis par les recruteurs suivront le parcour de formation. Vos futurs collaborateurs,
+une fois formés, vous seront entièrement dédiés. Il n'y a pas de surprise d'indisponibilitée.
 
 La rencontre se déroulera le **15 Mai 2017** au **3 rue de la trinité** à **Paris**. Pour participer à cette rencontre, 
 inscrivez vous à l'événement en envoyant un e-mail à : **contact@floria-consulting.com** avec les informations suivantes :

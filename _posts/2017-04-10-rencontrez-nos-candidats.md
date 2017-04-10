@@ -3,12 +3,12 @@ layout: post
 title:  "Rencontrez nos candidats"
 date:   2017-04-10 22:24:01 +0100
 categories: recrutement formation
-og_image: assets/docs/preview-emploi-et-formation.png
+og_image: assets/docs/banner-rencontrez-les-candidats.png
 ---
 
 Dans le cadre du pack "Emploi et Formation" de Floria-Consulting, nous vous invitons à venir à la rencontre de nos candidats.
 
-![image here]()
+![image here](assets/docs/banner-rencontrez-les-candidats.png)
 
 Lors de cet événement, vous rencontrerez nos candidats, sélectionnés avec soin, pouvant prétendre au cursus de formation JAVASCRIPT que nous leurs 
 dispenserons durant 2 mois. Seule les personnes choisis par les recruteurs suivront le parcour de formation. Vos futurs collaborateurs,

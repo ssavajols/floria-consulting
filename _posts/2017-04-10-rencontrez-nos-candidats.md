@@ -19,7 +19,7 @@ inscrivez vous à l'événement en envoyant un e-mail à : **contact@floria-cons
 
 - Nom de votre société
 - Nom et Prénom des participants (Jusqu'à 2 participants par entreprise)
-- Heure d'arrivée approximative
+- Disponibilité matin/après-midi/journée
 
 Date limite pour les inscriptions le 10 Mai 2017.
 

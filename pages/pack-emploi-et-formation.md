@@ -62,7 +62,7 @@ pour les rencontrer.
 
 ### Informations pratiques
 
-- Date des journées de rencontres : **15 Mai 2017**
+- Date de la journée de rencontre : **15 Mai 2017**
 - Date estimée du début de la formation : **Juillet 2017**
 - Date de disponibilitée estimé des resources : **Septembre 2017**
 - Lieu des journées de rencontres : **3 Rue de la Trinité 75009 Paris France**

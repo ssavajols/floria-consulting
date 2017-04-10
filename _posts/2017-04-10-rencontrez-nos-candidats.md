@@ -23,6 +23,8 @@ inscrivez vous à l'événement en envoyant un e-mail à : **contact@floria-cons
 
 Date limite pour les inscriptions le 10 Mai 2017.
 
+Comment marche le pack "emploi et formation" ? Venez le [découvrir ici](pack-emploi-et-formation). 
+
 ### Informations pratiques
 
 - Date de la journée de rencontre : **15 Mai 2017**

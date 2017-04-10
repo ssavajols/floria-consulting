@@ -1,5 +1,5 @@
 ---
-title: pack-emploi-et-formation
+title: pack Emploi et Formation
 layout: page
 permalink: pack-emploi-et-formation/
 og_image: assets/docs/preview-emploi-et-formation.png

@@ -57,7 +57,7 @@ vous propose les profils que vous choisissez en **prestations pour une
 durée d’un an**. A la fin de cette prestation, vous aurez **la possibilité de 
 recruter gratuitement le prestataire**.
 
-Nous avons plus de 80 profils à vous présenter. Inscrivez vous à notre évènement
+Nous avons plus de 30 profils à vous présenter. Inscrivez vous à notre évènement
 pour les rencontrer.
 
 ### Informations pratiques

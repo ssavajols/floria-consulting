@@ -3,7 +3,7 @@ layout: post
 title:  "Rencontrez nos candidats"
 date:   2017-04-10 22:24:01 +0100
 categories: recrutement formation
-og_image: assets/docs/banner-rencontrez-les-candidats.png
+og_image: assets/docs/banner-rencontrez-les-candidats-social.png
 ---
 
 Dans le cadre du pack "Emploi et Formation" de Floria-Consulting, nous vous invitons à venir à la rencontre de nos candidats.

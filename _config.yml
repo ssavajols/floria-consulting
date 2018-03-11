@@ -34,13 +34,6 @@ theme: minima
 sass:
     sass_dir: _sass
 
-menu:
-    published: true
-    items:
-      -
-        url: "/"
-        label: "aaa"
-
 gems:
   - jekyll-feed
   - jekyll-paginate

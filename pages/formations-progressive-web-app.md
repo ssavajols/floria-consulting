@@ -25,7 +25,7 @@ Cette formation est orienté vers les développeurs front-end intermediaire. Des
   - fetch
   - async / await
   - Reactive programming avec RxJS
-  - La transpiration avec babel
+  - La transpilation avec babel
   - Webpack
   - React + redux
   - Les tests unitaires avec Jest

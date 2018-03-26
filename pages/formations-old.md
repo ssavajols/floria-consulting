@@ -1,7 +1,7 @@
 ---
 title: Formations
 layout: page
-permalink: formations/
+permalink: formations-old/
 ---
 # Les formations
 

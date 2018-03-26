@@ -27,7 +27,3 @@ formateurs se déplacent sur Paris, Ile-de-france et la Picardie.
 Pour mettre en place un parcours de formation, contactez nous : **contact@floria-consulting.com**
 
 {% include prochaines-sessions.html %}
-
-### Liens
-
-- [Document PDF]({{site.baseurl}}assets/docs/presentation.pdf)

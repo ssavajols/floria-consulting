@@ -57,7 +57,7 @@ File: Layout CSS
 .services li article p{}
 
 .excerpts{}
-.excerpts article{border:1px solid;}
+.excerpts article{border:1px solid; max-width: 29.5%;}
 .excerpts article figure{display:block; position:relative;}
 .excerpts article figure img{}
 .excerpts article figure figcaption{position:absolute; top:10px; left:10px; width:50px;}

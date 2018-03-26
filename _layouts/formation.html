@@ -1,0 +1,14 @@
+---
+layout: base
+---
+{% include header.html intro="true" %}
+
+<div class="wrapper row2">
+    <main class="hoc container clear">
+        {{ content }}
+
+        {% include prochaines-sessions.html %}
+    </main>
+</div>
+
+{% include footer.html %}

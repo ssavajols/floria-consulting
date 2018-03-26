@@ -6,62 +6,76 @@ permalink: /formations/progressive-web-app
 
 # Formation Progressive Web App (4 jours)
 
-Notre formation React couvre l'étendue de la librairie. A Partir de <strong>1100€</strong> HT par personne.
+Notre formation Progressive web app couvre l'étendue des connaissances nécessaire à l'élaboration d'une progressive web app. A Partir de <strong>1100€</strong> HT par personne.
 
 [Demander une convention de formation](mailto:contact@floria-consulting.com)
 
 ## Public visé
 
-Cette formation est idéale pour tous les débutants sur React.JS. Elle vous permettra de mieux connaître la librairie et ses extensions. Elle vous apportera également toutes les connaissances pour appréhender les applications single page app.
+Cette formation est orienté vers les développeurs front-end intermediaire. Des connaissances en HTML/CSS/JS sont requisent pour suivre cette formation dans de bonnes conditions.
 
 ## Programme
 
-<!-- - Les composants RIA
-  - Rappel des bases HTML, CSS, JS.
-  - Le DOM et ses interactions
-  - L’éco-système des frameworks javascript, les limites des applications front-end.
-  - Le data-binding : virtual-dom, dirty-checking, observable objects
-  - Le principe de react JS dans l’univers des frameworks JAVASCRIPT.
-  - Les transpileurs. Le format JSX.
-  - Intégration dans les outils de développements, IDE webstorm, visual code studio, atom.
-  - Mise en place de l’environnement de travail et travaux pratiques.
-  - (Initiation a JSX, mise en place d’une architecture de projet pour les TP de la formation)
+- Rappel des bases du développement web
+  - ES6 / ES7
+  - Rest et spread
+  - Template strings
+  - let et const
+  - Promise
+  - fetch
+  - async / await
+  - Reactive programming avec RxJS
+  - La transpiration avec babel
+  - Webpack
+  - React + redux
+  - Les tests unitaires avec Jest
+  - Node et les applications Isomorphiques
 
-- Le développement avec React.JS
-  - Pattern MVC et Virtual Dom.
-  - Prise en main du JSX. Pièges à éviter.
-  - Méthodes principales de l'API.
-  - Création de composant de vues. Cycle de vie.
-  - La fonction de rendu.
-  - Le State et les props. Gestion des états.
+- Ce qu’est une progressive web app ?
+  - Introduction
+  - App vs Sites
+  - Ce qu’est le web aujourd’hui
+  - Introduction aux progressive web apps
+  - Démo
 
-- Des composants intéractifs
-  - Gestionnaire d’évènement react.js.
-  - Une stratégie pour les états de composants
-  - Composition de composant.
-  - Le component Data Flow.
-  - Les composants réutilisables. Les enfants et propriétés.
-  - La gestion des formulaires.
-  - Manipulation du DOM.
+- Ajouter le site sur l’écran d’accueil : 0.5 jour
+  - Pourquoi ajouter le site sur l’écran d’accueil ? 
+  - Introduction au Web App Manifest
+  - Manifest Properties
+  - Créer un manifest
+  - Tester le manifest
+  - Install Banner requirements
+  - Manifest events
 
-- Single page app avec reactJS et Flux
-  - Présentation du framework Flux.
-  - La gestion du MVC.
-  - Les dispatcher.
-  - Les stores.
-  - Extension react.js. Animation et data-binding.
+- Envoyer des push notifications
+  - Pourquoi des push notifications ?
+  - Introduction aux push et aux notifications
+  - Notifications non-persistentes
+  - Notifications persistentes
+  - Démo : Web notifications : introduction
+  - Démo : Web notifications : Notification generator
+  - Démo : Web notifications : Notification tags
+  - Démo : Web notifications : Notification events
+  - Push API : les fondamentaux
+  - Configuration des push
+  - Démo : Configuration des push : Introductions
+  - Démo : Configuration des push : Permissions
+  - Démo : Configuration des push : Souscriptions
+  - Envoyer des messages
+  - Démo : envoyer des messages
 
-- Travailler avec des applications isomorphiques
-  - Le concept d’application isomorphique.
-  - L’écosystème serveur.
-  - Initiation à NodeJS.
-  - Configurer node.js pour react.js.
-  - Utilisation des routes.
+- Synchronisation en background
+  - Pourquoi synchroniser en background ?
+  - Introduction à la synchronisation en background
+  - One-off synchronisation
+  - Démo : One-off Synchronisation : Enregistrement
+  - Démo : One-off Synchronisation : Handle Sync
+  - Synchronisation périodique
 
-- Un premier pas avec React Native
-  - Les principes de fonctionnement des composants natifs.
-  - Présentation des composants et gestion multi-device.
-  - Où se situe react native par rapport aux autres outils d’applications hybride. Cordova, Phonegap, CocoonJS. -->
+- Bonnes pratiques progressive web apps
+  - Introduction PWA checklist
+  - Introduction à Lighthouse
+  - Démo : Lighthouse
 
 ## Tarifs
 

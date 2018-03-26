@@ -32,11 +32,9 @@ Cette formation est orienté vers les développeurs front-end intermediaire. Des
   - Node et les applications Isomorphiques
 
 - Ce qu’est une progressive web app ?
-  - Introduction
   - App vs Sites
   - Ce qu’est le web aujourd’hui
   - Introduction aux progressive web apps
-  - Démo
 
 - Ajouter le site sur l’écran d’accueil
   - Pourquoi ajouter le site sur l’écran d’accueil ? 
@@ -52,30 +50,26 @@ Cette formation est orienté vers les développeurs front-end intermediaire. Des
   - Introduction aux push et aux notifications
   - Notifications non-persistentes
   - Notifications persistentes
-  - Démo : Web notifications : introduction
-  - Démo : Web notifications : Notification generator
-  - Démo : Web notifications : Notification tags
-  - Démo : Web notifications : Notification events
+  - Web notifications : introduction
+  - Web notifications : Notification generator
+  - Web notifications : Notification tags
+  - Web notifications : Notification events
   - Push API : les fondamentaux
-  - Configuration des push
-  - Démo : Configuration des push : Introductions
-  - Démo : Configuration des push : Permissions
-  - Démo : Configuration des push : Souscriptions
+  - Configuration des push : Introductions
+  - Configuration des push : Permissions
+  - Configuration des push : Souscriptions
   - Envoyer des messages
-  - Démo : envoyer des messages
 
 - Synchronisation en background
   - Pourquoi synchroniser en background ?
   - Introduction à la synchronisation en background
-  - One-off synchronisation
-  - Démo : One-off Synchronisation : Enregistrement
-  - Démo : One-off Synchronisation : Handle Sync
+  - One-off Synchronisation : Enregistrement
+  - One-off Synchronisation : Handle Sync
   - Synchronisation périodique
 
 - Bonnes pratiques progressive web apps
   - Introduction PWA checklist
   - Introduction à Lighthouse
-  - Démo : Lighthouse
 
 ## Tarifs
 

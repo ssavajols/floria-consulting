@@ -38,7 +38,7 @@ Cette formation est orienté vers les développeurs front-end intermediaire. Des
   - Introduction aux progressive web apps
   - Démo
 
-- Ajouter le site sur l’écran d’accueil : 0.5 jour
+- Ajouter le site sur l’écran d’accueil
   - Pourquoi ajouter le site sur l’écran d’accueil ? 
   - Introduction au Web App Manifest
   - Manifest Properties

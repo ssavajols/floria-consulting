@@ -12,7 +12,7 @@ Nous vous proposons :
 
 - des formations sur mesure
 - des formations standard
-  - [PROGRESSIVE WEB APP](/formations/progressive-web-app)
+  <!-- - [PROGRESSIVE WEB APP](/formations/progressive-web-app) -->
   - [HTML/CSS/JS](/formations/html-css-js)
   - [Javascript](/formations/javascript)
   - [Backbone.JS](/formations/backbone)

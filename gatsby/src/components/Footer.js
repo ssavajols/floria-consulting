@@ -29,6 +29,7 @@ const Footer = props => (
             href="https://www.linkedin.com/company/floria-consulting/"
             className="icon alt fa-linkedin"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <span className="label">LinkedIn</span>
           </a>

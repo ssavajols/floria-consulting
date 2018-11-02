@@ -1,7 +1,15 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-export default ({ url, pic, title, description, information, size }) => (
+export default ({
+  url,
+  pic,
+  title,
+  description,
+  information,
+  size,
+  buttonLabel,
+}) => (
   <React.Fragment>
     <section className={size ? size : null}>
       {url &&
@@ -43,7 +51,7 @@ export default ({ url, pic, title, description, information, size }) => (
             <ul className="actions">
               <li>
                 <Link to={url} className="button">
-                  Learn more
+                  {buttonLabel || 'Voir la formation'}
                 </Link>
               </li>
             </ul>

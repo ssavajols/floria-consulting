@@ -37,7 +37,7 @@ class Layout extends React.Component {
   }
 
   render() {
-    const { children } = this.props
+    const { children, noContact } = this.props
 
     return (
       <div
@@ -48,7 +48,7 @@ class Layout extends React.Component {
         <div id="wrapper">
           <Header onToggleMenu={this.handleToggleMenu} />
           {children}
-          <Contact />
+          {!noContact && <Contact />}
           <Footer />
         </div>
         <Menu onToggleMenu={this.handleToggleMenu} />

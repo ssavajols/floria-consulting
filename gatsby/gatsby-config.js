@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter - Forty V2',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Forty by HTML5 UP',
+    title: 'Floria Consulting',
+    author: 'Sylvain Savajols',
+    description: "Floria consulting - Formation professionnel dans l'IT",
   },
   pathPrefix: '/',
   plugins: [
@@ -10,8 +10,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Floria consulting',
+        short_name: 'floria',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',

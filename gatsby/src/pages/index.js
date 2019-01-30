@@ -37,6 +37,22 @@ class HomeIndex extends React.Component {
               content:
                 'formation, professionnelle, IT, developpeur, javascript, react.js, angular, PHP',
             },
+            {
+              property: 'og:title',
+              content: 'Floria consulting',
+            },
+            {
+              property: 'og:description',
+              content: 'la formation professionnelle pour développeurs',
+            },
+            {
+              property: 'og:image',
+              content: '/social-media-floria-logo.png',
+            },
+            {
+              property: 'og:url',
+              content: 'https://floria-consulting.com',
+            },
           ]}
         />
 
